@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5f069db8-c395-409c-b447-7d7f8a04b3bc" name="Default Changelist" comment="" />
+    <list default="true" id="5f069db8-c395-409c-b447-7d7f8a04b3bc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/apis.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog/apis.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/middle/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/middle/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/middle/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/middle/urls.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,6 +25,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1WaQqy4AlrHB4Qltt3RAG0pfz1x" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -52,9 +60,9 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="463" y="260" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1579397701287">
+    <state x="463" y="260" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1579398266713">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="463" y="260" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1579397701287" />
+    <state x="463" y="260" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1579398266713" />
   </component>
 </project>
